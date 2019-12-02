@@ -2,7 +2,7 @@
 # Menbuat dictionary daftar kontak
 # {key: value}
 kontak = {'Mohammad': '081267888', 'Dina': '087677776'}
-# menampilkan kontak ari
+#
 print("Kontaknya Mohammad adalah: ", kontak['Mohammad'])
 # menambah kontak baru
 print(kontak)
